@@ -3,7 +3,6 @@ layout: post
 title:  "Introducing SourceShield"
 date:   2023-02-26 10:00:00 -0500
 image: assets/img/cover.png
-categories: update
 tags: update
 ---
 
